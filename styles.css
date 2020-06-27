@@ -11,14 +11,10 @@ table {
   text-align: center;
   border-radius: 4px;
   padding-right: 10px;
-  display:block;
-  
 }
 
 input {
   outline: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
   position: relative;
   left: 5px;
   top: 5px;
@@ -126,3 +122,4 @@ input:active {
   margin-bottom: 15px;
   box-shadow: none;
 }
+
